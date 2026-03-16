@@ -48,13 +48,13 @@ export default function Home() {
       <h4 className="text-5xl font-bold mt-8 mb-4">Founders</h4>
       <div className="flex flex-wrap justify-center w-full items-stretch px-10">
         <Tile heading="Samik Goyal" rating={ratingCache["unforgettablepl"]} user="unforgettablepl">
-          IOI&#39;24 Silver | IOITC&#39;24
+          IOI&#39;24/&#39;25 Silver | IOITC&#39;26
         </Tile>
         <Tile heading="Oviyan Gandhi" rating={ratingCache["oviyan_gandhi"]} user="oviyan_gandhi">
           IOITC&#39;24 | INOI&#39;24 Gold
         </Tile>
         <Tile heading="Avighna Chhatrapati" rating={ratingCache["avighnakc"]} user="avighnakc">
-          IOITC&#39;24 | INOI&#39;24 Silver
+          IOITC&#39;26 | INOI&#39;26 Gold
         </Tile>
       </div>
       <h4 className="text-5xl font-bold mt-8 mb-4">Trainers</h4>
